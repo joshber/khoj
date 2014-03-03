@@ -1,9 +1,10 @@
-d33ae0353741626a5a5aadcdcfddacb6 e5f950a5cebb8652da4e8c831e6ad713 ffffffffffffffffffffffffffffffff 102 /Users/josh/dev/khoj/Khoj/xcode/build/Debug/Khoj.app
-00000000530f41bc0000000000000462 a76fa81a70e7daf650c2ff05408e1cdf ffffffffffffffffffffffffffffffff 8 /Users/josh/dev/khoj/Khoj/xcode/build/Debug/Khoj.app/Contents/PkgInfo
-00000000530f41bc0000000000000462 a76fa81a70e7daf650c2ff05408e1cdf ffffffffffffffffffffffffffffffff 1473 /Users/josh/dev/khoj/Khoj/xcode/build/Debug/Khoj.app/Contents/Info.plist
+6755f817ccdded06a7ab505f063a83de e5f950a5cebb8652da4e8c831e6ad713 ffffffffffffffffffffffffffffffff 102 /Users/josh/dev/khoj/Khoj/xcode/build/Debug/Khoj.app
+00000000530f41bc0000000000000462 8393ff773062a179abf30588d11086b1 ffffffffffffffffffffffffffffffff 8 /Users/josh/dev/khoj/Khoj/xcode/build/Debug/Khoj.app/Contents/PkgInfo
+00000000530f41bc0000000000000462 8393ff773062a179abf30588d11086b1 ffffffffffffffffffffffffffffffff 1473 /Users/josh/dev/khoj/Khoj/xcode/build/Debug/Khoj.app/Contents/Info.plist
 00000000530f41bc00000000006232e0 3c5335f423988e1ec1ed580f372522c8 ffffffffffffffffffffffffffffffff 6435552 /Users/josh/dev/khoj/Khoj/xcode/build/Debug/Khoj.app/Contents/MacOS/libLeap.dylib
-b46f1822fa99635efdf1fd92c89829ce 221637303f9af76e9400cf3520c6dc2a ffffffffffffffffffffffffffffffff 3017944 /Users/josh/dev/khoj/Khoj/xcode/build/Debug/Khoj.app/Contents/MacOS/Khoj
+000000000105ec3200000000017f06a6 221637303f9af76e9400cf3520c6dc2a ffffffffffffffffffffffffffffffff 3026536 /Users/josh/dev/khoj/Khoj/xcode/build/Debug/Khoj.app/Contents/MacOS/Khoj
 00000000530f41bc0000000000070375 7910fad3d1da7844f246c76510c34a0f ffffffffffffffffffffffffffffffff 459637 /Users/josh/dev/khoj/Khoj/xcode/build/Debug/Khoj.app/Contents/Resources/CinderApp.icns
-035f1ff6750e46e3a8621b7ca1e0b129 3c7156ca1ff04066d779ca5da6acaa95 ffffffffffffffffffffffffffffffff 2755808 /Users/josh/dev/khoj/Khoj/xcode/build/Khoj.build/Debug/Khoj.build/Objects-normal/i386/Cinder-LeapMotion.o
-035f1ff6750e451ba8621b7ca1e0af69 881e4ee8b64881eb2a8837cf6e73d0d3 ffffffffffffffffffffffffffffffff 1889964 /Users/josh/dev/khoj/Khoj/xcode/build/Khoj.build/Debug/Khoj.build/Objects-normal/i386/KhojApp.o
+758e987a33a6f1d3cb7d4b1e43fc0258 2402915cb4f5ebabab3998f1e1f17250 ffffffffffffffffffffffffffffffff 2755808 /Users/josh/dev/khoj/Khoj/xcode/build/Khoj.build/Debug/Khoj.build/Objects-normal/i386/Cinder-LeapMotion.o
+758e987a615673f0cb7d4b1e43fc0dd7 9ad628c8111e156f6387a8374e9c1d3a ffffffffffffffffffffffffffffffff 1947172 /Users/josh/dev/khoj/Khoj/xcode/build/Khoj.build/Debug/Khoj.build/Objects-normal/i386/KhojApp.o
+000000000167145200000000000000f6 758e987a61cea43dcb7d4b1e43fe250e ffffffffffffffffffffffffffffffff 65740304 /var/folders/s8/ch5p_b_d4pbbxjhnd019ssqh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Khoj_Prefix-egcsdkgjhjywqygblzahwabwvkvj/Khoj_Prefix.pch.pch
 000000000167145200000000000000f6 035f1ff62766130da8621b7ca1e0a4d9 ffffffffffffffffffffffffffffffff 65740328 /var/folders/s8/ch5p_b_d4pbbxjhnd019ssqh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Khoj_Prefix-fmkiyibfrlzimdawcompzhmywzny/Khoj_Prefix.pch.pch
